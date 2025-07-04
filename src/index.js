@@ -11,3 +11,6 @@ root.render(
     <App />
   </StrictMode>
 );
+
+
+serviceWorkerRegistration.register();
